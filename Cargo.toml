@@ -1,0 +1,15 @@
+[package]
+name = "rawsocket-webserver"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+digest = "0.10.7"
+inquire = "0.6.2"
+sha2 = "0.10.7"
+socket2 = "0.5.3"
+
+[[bin]]
+name = "server"
+path = "src/server.rs"
