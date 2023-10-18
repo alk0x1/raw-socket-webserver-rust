@@ -1,0 +1,3 @@
+- [x] Tcp Server listening...
+- [ ] Receive data from client (browsers)
+- [ ] Handle HTTP requests
